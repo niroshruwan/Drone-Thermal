@@ -1,0 +1,57 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Data files
+data/*
+!data/.gitkeep
+
+# Output files
+*.csv
+*.json
+output/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Docker
+.dockerignore
+
+# Test images (keep example structure)
+*.JPG
+*.jpg
+*.JPEG
+*.jpeg
+*.PNG
+*.png
+*.TIFF
+*.tiff
+
+# Logs
+*.log
+npm-debug.log*
