@@ -32,12 +32,15 @@ Extract temperature data from drone thermal images (DJI and FLIR-based cameras).
 ### Prerequisites
 
 **For DJI images:**
-- Docker (required)
+- Docker (required - no alternatives available)
+- DJI uses proprietary format that requires official SDK via Docker
+- macOS, Windows, and Linux all need Docker
 
 **For FLIR/Skydio images:**
 - Python 3.7+
 - exiftool
 - Python packages: numpy, matplotlib, pillow
+- No Docker needed
 
 ### Setup
 
