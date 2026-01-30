@@ -125,6 +125,20 @@ python3 get_pixel_temp.py data/output/thermal_data.csv 320 256
 python3 get_pixel_temp.py data/output/thermal_data.csv 100 100 600 500
 ```
 
+### Solar Panel Inspection
+
+Automatically detect defective solar panel cells:
+
+```bash
+python3 solar_panel_inspection.py data/output/thermal_data.csv data/output
+```
+
+Output:
+- Segments panels from vegetation
+- Identifies problem areas (defective cells)
+- Draws red boxes around hotspots
+- Exports detailed report with locations
+
 ## Usage Examples
 
 ### Solar Panel Inspection
